@@ -160,6 +160,7 @@ h1 {
   justify-content: center;
 }
 .arti {
+  margin-top: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -178,6 +179,7 @@ h1 {
 }
 .container2 {
   text-align: center;
+
 }
 .input-without-bg {
   background-color: rgba(114, 114, 114, 0.03);
@@ -202,7 +204,7 @@ h1 {
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 80vh;
   background-position: center;
   justify-content: center;
   align-items: center;
