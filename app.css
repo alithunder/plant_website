@@ -235,7 +235,7 @@ h1 {
   grid-template-columns: 1fr 1fr 1fr;
 }
 .footer {
-  background-color: black;
+  background-color: #337A5B;
   width: 100%;
   height: 350px;
   align-items: center;
