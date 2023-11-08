@@ -17,7 +17,7 @@
   height: 100px;
 }
 .container {
-  background-image: url("assests/background-img.svg");
+  background-image: url("assests/background-img.png");
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
